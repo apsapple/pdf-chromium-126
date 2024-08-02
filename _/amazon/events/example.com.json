@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://example.com",
+    "expected": {
+      "title": "Example Domain",
+      "screenshot": "e610a8be5568f23c453b08928460aae3ae0b4b0a"
+    }
+  },
+  {
+    "url": "https://get.webgl.org",
+    "expected": {
+      "remove": "logo-container",
+      "screenshot": "ec6c79a571b4cb5727c6fc23f9da30de3868138c"
+    }
+  }
+]
